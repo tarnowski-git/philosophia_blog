@@ -202,6 +202,7 @@ h2 {
 .tw {
   width: 250px;
   height: 155px;
+
   float: left;
 }
 
@@ -217,6 +218,10 @@ h2 {
 
 .ins:hover {
   background-color: #bc2a8d;
+}
+
+.fa {
+  margin-top: 30px;
 }
 
 .info {
